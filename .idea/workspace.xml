@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="663f1c9d-8972-4c55-8f0e-716a18999ab6" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
     </list>
+=======
+    <list default="true" id="663f1c9d-8972-4c55-8f0e-716a18999ab6" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,21 +18,35 @@
     <session id="-569106734">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+<<<<<<< Updated upstream
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.opened" value="2" />
+=======
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.opened" value="4" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="3" />
+<<<<<<< Updated upstream
           <entry key="php" value="17" />
+=======
+          <entry key="php" value="23" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="3" />
+<<<<<<< Updated upstream
           <entry key="PHP" value="17" />
+=======
+          <entry key="PHP" value="23" />
+>>>>>>> Stashed changes
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -47,7 +65,11 @@
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
         <counts>
+<<<<<<< Updated upstream
           <entry key="git.branch.checkout.local" value="7" />
+=======
+          <entry key="git.branch.checkout.local" value="10" />
+>>>>>>> Stashed changes
           <entry key="git.branch.create.new" value="2" />
           <entry key="git.checkout.as.new.branch" value="1" />
         </counts>
@@ -60,7 +82,11 @@
         <entry file="file://$PROJECT_DIR$/test.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
+<<<<<<< Updated upstream
               <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+=======
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -91,8 +117,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="230" />
+    <option name="y" value="302" />
     <option name="width" value="2576" />
     <option name="height" value="1416" />
   </component>
@@ -145,6 +171,11 @@
       <updated>1666242595386</updated>
       <workItem from="1666242596638" duration="2477000" />
       <workItem from="1666245199671" duration="84000" />
+<<<<<<< Updated upstream
+=======
+      <workItem from="1666245469288" duration="738000" />
+      <workItem from="1666246315403" duration="1235000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="main.php">
       <created>1666242666111</created>
@@ -178,13 +209,21 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="2561000" />
+=======
+    <option name="totallyTimeSpent" value="4553000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< Updated upstream
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.081875995" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.082670905" />
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -197,8 +236,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+<<<<<<< Updated upstream
       <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49920508" visible="true" weight="0.6916472" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007949" side_tool="true" visible="true" weight="0.6916472" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49841017" visible="true" weight="0.6916472" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50158983" side_tool="true" visible="true" weight="0.6916472" />
+>>>>>>> Stashed changes
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -240,7 +284,11 @@
     <entry file="file://$PROJECT_DIR$/test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
+<<<<<<< Updated upstream
           <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+=======
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
