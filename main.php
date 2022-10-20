@@ -7,4 +7,3 @@
  */
 //http://localhost/devtest/main.php
 echo "main.php";
-echo 2;
